@@ -15,6 +15,12 @@ I care deeply about:
 
 ---
 
+## 💻 LeetCode Activity
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/xprtaker?ext=heatmap)
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages:** Python, Java, JavaScript, TypeScript, C#, C++, SQL  
